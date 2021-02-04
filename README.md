@@ -13,14 +13,14 @@ This is my personal engineering management archives and it's where I store my re
 
 #### General check-in questions
 
-- How is everything going today? Tell me about this last week?
+- How is everything going today? Tell me about this last week/month?
 - What’s on your mind this week?
 - Last time we spoke you said X was a challenge for you, how is that going?
-- What are your plans and priorities this week?
+- What are your plans and priorities this week/month?
 
 ### Growth and Development
 
-- What has been the work highlight/lowlight from the past week?
+- What has been the work highlight/lowlight from the past week/month?
 - Who’s someone in the company that you’d like to learn more from?
 - What projects would you like to work on or be more involved in?
 - What professional goals would you like to accomplish in the next 6 to 12 months, and what makes you say that?
@@ -47,7 +47,7 @@ This is my personal engineering management archives and it's where I store my re
 - What needs to change around our team meetings?
 - What do you like about our one-on-one meetings? What can be improved?
 - Are there any roles on the team that you feel unclear on?
-- What are your top priorities this week?
+- What are your top priorities this week/month?
 - What’s a problem we have on our team that I might not know about?
 - What can I hold you accountable for next time we talk?
 - How could we improve cross-functional collaboration at [your company]?
@@ -66,7 +66,7 @@ This is my personal engineering management archives and it's where I store my re
 - On a scale of 1-10, how happy are you at work?
 - What’s your least favourite part of your day-to-day at work?
 - What’s one thing you would recommend to improve our workplace culture?
-- Do you find your physical work environment productive? Is there anything preventing you from being productive?
+- Do you find your physical/remote work environment productive? Is there anything preventing you from being productive?
 - Are you proud of the work you do here?
 - How do you feel about the balance between your individual work vs. managing?
 - How do you feel your work/life balance is? What would you want to change, if anything?
@@ -113,7 +113,7 @@ This is my personal engineering management archives and it's where I store my re
 
 #### Career aspiration questions
 
-- When you think about yourself in two years time, what comes to mind?
+- When you think about yourself in two years from now, what comes to mind?
 - What are two or three new skills you’d like to learn on the job?
 - How are you progressing towards your bigger career and life goals?
 - Is there someone at the company (or outside) that you’d like to learn from?
