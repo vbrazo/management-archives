@@ -4,6 +4,16 @@ This is my personal engineering management archives and it's where I store my re
 
 - [Management](#management)
   - [1-1](#1-1)
+    - [General check-in questions](#general-check-in-questions)
+    - [Growth and Development](#growth-and-development)
+    - [Communication](#communication)
+    - [Questions about employee motivation](#questions-about-employee-motivation)
+    - [Address challenges, roadblocks and concerns](#address-challenges-roadblocks-and-concerns)
+    - [Alignment questions](#alignment-questions)
+    - [Progress questions](#progress-questions)
+    - [Relationship-based questions](#relationship-based-questions)
+    - [Career aspiration questions](#career-aspiration-questions)
+    - [Questions to close your one-on-one](#questions-to-close-your-one-on-one)
 
 # Management
 
@@ -18,7 +28,7 @@ This is my personal engineering management archives and it's where I store my re
 - Last time we spoke you said X was a challenge for you, how is that going?
 - What are your plans and priorities this week/month?
 
-### Growth and Development
+#### Growth and Development
 
 - What has been the work highlight/lowlight from the past week/month?
 - Who’s someone in the company that you’d like to learn more from?
@@ -75,7 +85,7 @@ This is my personal engineering management archives and it's where I store my re
 - How are you feeling about your goals?
 - Which one best describes you during the past month?
 
-### Address challenges, roadblocks and concerns
+#### Address challenges, roadblocks and concerns
 
 - What’s one thing I can do right now to make work better for you?
 - Where do you need help?
