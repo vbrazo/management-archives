@@ -1,11 +1,11 @@
-# Engineering Management Archives
+# Management Archives
 
 This is my personal engineering management archives and it's where I store my research that aims to provide resources to better work with teams of developers in my engineering management journey.
 
-- [Engineering Management](#engineering-management)
+- [Management](#management)
   - [1-1](#1-1)
 
-# Engineering Management
+# Management
 
 ## 1-1
 
